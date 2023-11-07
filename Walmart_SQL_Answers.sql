@@ -28,6 +28,9 @@ From CleanData
 Where [Holiday Flag] = 0)) * 100 as [Percent Increased]
 
 
-
 -- Based on the calculations there 7.83 % increased in sales between Holiday and Non-Holiday
+
+
+
+
 
